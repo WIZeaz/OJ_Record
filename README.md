@@ -5,7 +5,8 @@ record and share the accepted code of problems of OnlineJudge
 This is a repo used to record and share my accepted code of problems of different Online Judge. You can review the accepted code here when you struck at some problems. You are welcome to issue the bugs in my programs, I am very appreciated about that.
 
 ## Rule of Filename
-The filename are composited by letters and numbers. letters indicate the OJ and numbers mean problem number. e.g. POJ1001 mean the problem number is 1001 and come from Peking University Online Judge.
+The filename are composited by letters and numbers. letters indicate the OJ and numbers mean problem number. e.g. POJ1001 mean the problem number is 1001 and come from Peking University Online Judge.  
+> warning: if there is a ''_'' at the first of filename, it may mean it is a unsolved problems! 
 
 ## Online Judge List
 > [POJ = Peking University Online Judge](http://poj.org)  
