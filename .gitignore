@@ -33,3 +33,4 @@
 
 #other 
 *.in
+.vscode/
