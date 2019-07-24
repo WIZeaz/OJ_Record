@@ -5,7 +5,6 @@ using namespace std;
 int a[100001];
 #define L 45
 struct Segment_Tree{
-    //constants and innerclass
     struct node{
         int l,r,lc,rc;
         int val[L];
